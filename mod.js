@@ -4,3 +4,4 @@ const train = (sostav) => {
     sost += sostav
     console.log('составов в поезде: '+sost)
 }
+train(5)
